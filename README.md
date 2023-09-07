@@ -6,6 +6,10 @@
  </head>
  <body> 
 <ul>list
+<ol><p>строка</p></p></ol>
+<ol>1</ol>
+<ol>1</ol>
+<ol>1</ol>
 <ol>1</ol>
 </ul>
   <div>1</div>
