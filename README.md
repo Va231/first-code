@@ -13,6 +13,5 @@
  <ol>4/ol>
 </ul>
   <div>1</div>
-  <div>2</div>
  </body> 
 </html>
