@@ -5,14 +5,12 @@
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
  </head>
  <body> 
-<ul>list
- <ol><p>строка</p></p></ol>
- <ol>1</ol>
- <ol>2</ol>
- <ol>3</ol>
-  <ol>3</ol>
- <ol>4/ol>
-</ul>
-  <div>1</div>
+<article>
+  <header>
+    <h1>Beagles</h1>
+    <time>08.12.2014</time>
+  </header>
+  <p>I love beagles <em>so</em> much! Like, really, a lot. They’re adorable and their ears are so, so snugly soft!</p>
+</article>
  </body> 
 </html>
