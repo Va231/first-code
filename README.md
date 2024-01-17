@@ -8,7 +8,7 @@
 <article>
   <header>
     <h1>Beagles</h1>
-    <time>08.01.2024</time>
+    <time>17.01.2024</time>
   </header>
   <p>I love beagles <em>so</em> much! Like, really, a lot. They’re adorable and their ears are so, so snugly soft!</p>
 </article>
