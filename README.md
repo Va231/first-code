@@ -19,7 +19,12 @@
           <li><a href="#">Лаааадно...</a></li>
         </ul>
 <address>1234 </address>
-
+  <style>
+   p {
+    width: 100%; /* Ширина таблицы в процентах */
+    background: #f0f0f0; /* Цвет фона */
+   }
+  </style>
 </article>
  </body> 
 </html>
