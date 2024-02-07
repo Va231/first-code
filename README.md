@@ -3,6 +3,12 @@
  <head>
    <title>Title</title>
    <meta http-equiv="Content-Type" content="text / html; charset=utf-8">
+    <style>
+   p {
+    width: 100%; /* Ширина таблицы в процентах */
+    background: #f0f0f0; /* Цвет фона */
+   }
+  </style>
  </head>
  <body> 
 <article>
@@ -19,12 +25,12 @@
           <li><a href="#">Лаааадно...</a></li>
         </ul>
 <address>1234 </address>
-  <style>
-   p {
-    width: 100%; /* Ширина таблицы в процентах */
-    background: #f0f0f0; /* Цвет фона */
-   }
-  </style>
+  <aside>
+   <p>Экономьте электричество</p>
+   <p>Хороший язык</p>
+   <p>Чья палка больше</p>
+  </aside>
+
 </article>
  </body> 
 </html>
